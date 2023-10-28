@@ -120,7 +120,7 @@ class MinecraftWorker(QThread):
     progress_signal = pyqtSignal(int)
 
     def __init__(self, version):
-        super().__init()
+        super().__init__()
         self.version = version
 
     def run(self):
