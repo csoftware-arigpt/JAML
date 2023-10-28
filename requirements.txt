@@ -1,0 +1,3 @@
+PyQT5
+requests
+portablemc
