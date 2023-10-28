@@ -25,7 +25,7 @@ Mojang ©2009-2023. "Minecraft" is a trademark of Mojang Synergies AB
 
 ## License
 
-Licensed using GNU GPLv3, see LICENSE.md for more information
+Licensed using GNU GPLv3, see LICENSE for more information
 
 
 
